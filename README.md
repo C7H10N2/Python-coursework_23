@@ -8,5 +8,7 @@ This is the repository for my Python course lab reports. Each experiment has a c
 | [lab1](./lab1/) | 2/2 | 23/03/02 |
 | [lab2](./lab2/) | 1/1 | 23/03/09 |
 | [lab3](./lab3/) | 1/1 | 23/03/16 |
-| [lab3](./lab4/) | 2/2 | 23/03/23 |
+| [lab4](./lab4/) | 2/2 | 23/03/23 |
+| [lab5](./lab5/) | 1/1 | 23/04/07 |
+| [lab6](./lab6/) | 1/1 | 23/04/21 |
 | .... | .... | .... |
